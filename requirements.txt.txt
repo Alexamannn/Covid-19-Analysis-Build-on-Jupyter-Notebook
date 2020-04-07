@@ -1,0 +1,9 @@
+voila
+voila-gridstacks
+pandas
+ipywidgets
+seaborn
+plotly
+folium
+matplotlib
+numpy
