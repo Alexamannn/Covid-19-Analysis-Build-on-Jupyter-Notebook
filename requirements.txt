@@ -1,5 +1,6 @@
 voila
 voila-gridstack
+voila-vuetify
 pandas
 ipywidgets
 seaborn
