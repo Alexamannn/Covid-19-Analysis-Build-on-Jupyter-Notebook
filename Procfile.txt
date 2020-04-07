@@ -1,1 +1,0 @@
-web: voila --port=$PORT --no-browser --template=gridstack --theme=dark --enable_nbextensions=True notebooks/covid.ipynb
