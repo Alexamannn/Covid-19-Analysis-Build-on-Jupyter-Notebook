@@ -3,4 +3,6 @@ This web app gives day to day analysis of stastics of the world and all the majo
 
 WebApp is published through herokuapp -- > https://covid19it.herokuapp.com/
 
+Blog Post -> https://dse.cdl.unimi.it/en/avviso/notice-detail/covid-data-analysis
+
 Author -Alex Aman
